@@ -2,16 +2,18 @@
 title: "Interest"
 ---
 
-## Interest
-
--   Philosophy
-
--   Human Body
+## List of My Interest
 
 -   Science
+
+-   Neuroscience
+
+-   Philosophy
 
 -   Human Genetics
 
 -   Politics
 
 -   Religion
+
+-   Poetry
