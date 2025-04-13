@@ -13,9 +13,11 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: standstone
+    mainfont: ariel
     css: styles.css
     toc: true
+    fontcolor: "#0394fc"
 
 editor: visual
 
