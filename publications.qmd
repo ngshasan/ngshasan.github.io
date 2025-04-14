@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
-#### List of My Publications
+#### List of Publications
 
--   Science
+1.  \[**Lead Author**\] Ensemble Model with Improved U-net based Segmentation for Leukemia Detection **\[Published: June 25, 2024\]** <https://www.worldscientific.com/doi/10.4015/S101623722450011X>
+
+2.  \[**Co-lead Author**\] Deep learning-based feature fusion and transfer learning for Approximating plC value of COVID-19 medicine using drug discovery data **\[Published: Dec 23, 2023\]** <https://www.worldscientific.com/doi/10.1142/S0219519423501002>
+
+3.  (\[**Lead Author**\] Protein-Protein Interaction Network Analysis using NetworkX \[NSF Fund IOS 2038872\] <https://link.springer.com/protocol/10.1007/978-1-0716-3327-4_35>  **\[Published: July 15, 2023\]**
