@@ -9,11 +9,16 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - publications.qmd
+      - tutorials.qmd
+      - dataset.qmd
+      - myblog.qmd
       - interest.qmd
+      - faq.qmd
 
 format:
   html:
-    theme: standstone
+    theme: spacelab
     css: styles.css
     toc: true
     mainfont: ariel

@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "This is a personal Quarto website.Work in progress…\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a personal Quarto website.Work in progress…\nTo learn more about Quarto website, please visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Mehadi Hasan is a Staff Bioinformatics Scientist at Baylor College of Medicine, Houston, Texas. When not exploring on neuroscience, neurology and neurogenetics sequencing data, Mehadi enjoys spending time with his family.\n\nEducation\nUniversity of Alabama at Birmingham, Birmingham, AL MS in Biology (Specialization: Bioinformatics) Jan 2022 - Dec 2023\n\n\nCurrent Job\nBioinformatician Baylor College of Medicine Sep 2023 - Present"
+    "text": "Mehadi Hasan is a Staff Bioinformatics Scientist at Baylor College of Medicine, Houston, Texas 77030, United States. When not exploring genome sequencing dataset from neuroscience, neurology, neurodegenerative, and neurogenetics related projects, Mehadi enjoys spending time with his family.\n\nEducation\nUniversity of Alabama at Birmingham, Birmingham, AL MS in Biology (Specialization: Bioinformatics) Jan 2022 - Dec 2023\n\n\nCurrent Job\nBioinformatician Baylor College of Medicine Sep 2023 - Present"
   },
   {
     "objectID": "interest.html",
@@ -33,5 +33,12 @@
     "title": "About",
     "section": "Current Job",
     "text": "Current Job\nBioinformatician | Sep 2023 - present"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "List of My Publications\n\nScience"
   }
 ]

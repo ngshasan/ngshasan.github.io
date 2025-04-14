@@ -3,4 +3,4 @@ title: "Welcome"
 ---
 This is a personal Quarto website.Work in progress...
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+To learn more about Quarto website, please visit <https://quarto.org/docs/websites>.
