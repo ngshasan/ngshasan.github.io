@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docsAAA
+  output-dir: docs
 
 website:
   title: "Mehadi Hasan"
@@ -14,10 +14,13 @@ website:
 format:
   html:
     theme: standstone
-    mainfont: ariel
     css: styles.css
     toc: true
-    fontcolor: "#0394fc"
+    mainfont: ariel
+    fontcolor: "#121412"
+    linkcolor: "#073ee3"
+    fontsize: 1.5em
+    monofont: courier new
 
 editor: visual
 

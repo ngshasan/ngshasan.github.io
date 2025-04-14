@@ -2,15 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "ngshasan.github.io",
+    "title": "Welcome",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "This is a personal Quarto website.Work in progress…\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Mehadi Hasan is a Staff Bioinformatics Scientist at Baylor College of Medicine, Houston, Texas. When not exploring on neuroscience, neurology and neurogenetics sequencing data, Mehadi enjoys spending time with his family.\n\nEducation\nUniversity of Alabama at Birmingham, Birmingham, AL MS in Biology (Specialization: Bioinformatics) Jan 2022 - Dec 2023\n\n\nCurrent Job\nBioinformatician Baylor College of Medicine Sep 2023 - Present"
+  },
+  {
+    "objectID": "interest.html",
+    "href": "interest.html",
+    "title": "Interest",
+    "section": "",
+    "text": "List of My Interest\n\nScience\nNeuroscience\nPhilosophy\nHuman Genetics\nPolitics\nReligion\nPoetry\nEurope"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of Alabama at Birmingham, | Birmingham, AL MS in Biology/Bioinformatics | Jan 2022 - Dec 2023"
+  },
+  {
+    "objectID": "about.html#current-job",
+    "href": "about.html#current-job",
+    "title": "About",
+    "section": "Current Job",
+    "text": "Current Job\nBioinformatician | Sep 2023 - present"
   }
 ]

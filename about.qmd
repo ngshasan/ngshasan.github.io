@@ -1,9 +1,36 @@
 ---
 title: "About"
+about:
+  template: jolla
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/ngshasan
+    - icon: github
+      text: Github
+      href: https://github.com/ngshasan
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/ngshasan.bsky.social
+    - icon: youtube
+      text: Youtube
+      href: https://youtube.com 
+    - icon: envelope
+      text: Email
+      href: mailto:ngshasan@gmail.com
+    - icon: file-earmark-pdf
+      text: Resume
+      href: resume.pdf
 ---
+Mehadi Hasan is a Staff Bioinformatics Scientist at Baylor College of Medicine, Houston, Texas. When not exploring on neuroscience, neurology and neurogenetics sequencing data, Mehadi enjoys spending time with his family.
 
-About this site
+### Education
+University of Alabama at Birmingham, Birmingham, AL<br>
+MS in Biology (Specialization: Bioinformatics)<br>
+Jan 2022 - Dec 2023
 
-```{r}
-1 + 1
-```
+### Current Job
+Bioinformatician<br>
+Baylor College of Medicine<br>
+Sep 2023 - Present
