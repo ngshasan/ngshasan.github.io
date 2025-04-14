@@ -2,7 +2,7 @@
 title: "About"
 about:
   template: jolla
-  image: texas.jpg
+  image: myphoto.jpg
   links:
     - icon: twitter
       text: Twitter
