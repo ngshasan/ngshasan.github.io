@@ -1,6 +1,6 @@
 ---
 title: "Welcome"
 ---
-This is a personal Quarto website.Work in progress...
+This is a personal Quarto website.Website building in progress...
 
 To learn more about Quarto website, please visit <https://quarto.org/docs/websites>.
